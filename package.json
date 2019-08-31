@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/burakaykan/Twitter-Bot.git"
+  },
+  "author": "Burak Aykan ÜRER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burakaykan/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/burakaykan/Twitter-Bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
